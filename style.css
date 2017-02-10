@@ -1,0 +1,33 @@
+body{
+    background-color: #ccc;
+}
+.main {
+    padding: 20px;
+    margin: 0 auto;
+    width: 50%;
+    min-height: 100vh;
+    background-color: #fefefe;
+    border-radius: 4px;
+}
+h2 {
+    text-align: center;
+}
+.main__img1 {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.main__button {
+    padding: 10px 15px;
+}
+
+.test {
+    display: block;
+    margin: 10px 0;
+    height: 30px;
+}
+
+.main__delete {
+    height: 30px;
+    width: 40px;
+}
